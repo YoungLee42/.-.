@@ -115,7 +115,7 @@ Chúc Mừng Ngày Phụ Nữ Việt Nam🌹💖
 <body>  
   <h1>💐 Happy Women’s Day From 11A2 With Love! 💖</h1>  
   <h2>Nhân ngày 20/10, tập thể 11A2 xin gửi lời chúc tốt đẹp nhất đến những cô gái tuyệt vời của lớp!  
-  Chúc các bạn luôn tự tin, thành công, và tỏa sáng trên con đường mình chọn. 🌟</h2>  
+  Chúc các bạn luôn tự tin, thành công, và tỏa sáng trên con đường mình chọn, Chúc Các Bạn Nữ Một Lần Nữa Với Sự Trân Trọng Và Thân Thương Một Ngày Thật Tuyệt Vời Với Nụ Cười Trên Môi!💖</h2>  
   <footer>FROM 11A2 WITH LOVE 💗</footer>  
 
   <audio id="bg-music" loop>  
